@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Page</title>
+    </head>
+    <body>
+        <form>
+            <b><align="center"></align>Input String:</b><br/><input type="text" size="25" value=""></br>
+            <form name="form1">
+                <align="center";Password:<input type="password"/></align>
+            </form>
+        </form>
+    </body>
+</html>
